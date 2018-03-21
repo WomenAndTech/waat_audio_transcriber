@@ -1,4 +1,4 @@
-# Women&&Tech Audio Transcriber App
+# Women&&Tech Audio Transcription Service
 
 ## Goal
 
