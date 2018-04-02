@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/WomenAndTech/waat_transcription_service/issues"
   },
-  "homepage": "https://github.com/WomenAndTech/waat_transcription_service#readme"
+  "homepage": "https://github.com/WomenAndTech/waat_transcription_service#readme",
+  "dependencies": {
+    "azure-arm-cognitiveservices": "^2.0.0",
+    "restify": "^7.1.0"
+  }
 }
