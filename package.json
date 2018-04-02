@@ -1,0 +1,19 @@
+{
+  "name": "waat_transcription_service",
+  "version": "1.0.0",
+  "description": "This service will transcribe an audio file in Azure Blob Storage using Azure Cognitive Services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WomenAndTech/waat_transcription_service.git"
+  },
+  "author": "Ray Kao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WomenAndTech/waat_transcription_service/issues"
+  },
+  "homepage": "https://github.com/WomenAndTech/waat_transcription_service#readme"
+}
